@@ -66,7 +66,7 @@ alertText = "TD.WebApi.V7 Released 🚀😁 <a target=\"_blank\" class=\"alert-l
 
 # Edit Page
 repoHost = "GitHub"
-docsRepo = "https://github.com/DarkangelKid/docs"
+docsRepo = "https://github.com/DarkangelKid/TD.WEBAPI.Docs"
 docsRepoBranch = "master"
 editPage = true
 lastMod = true
