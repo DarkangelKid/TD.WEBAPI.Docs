@@ -1,0 +1,91 @@
+# Meta Data for SEO
+
+## Homepage
+title = "tdwebapi"
+titleSeparator = "-"
+titleAddition = "Open-Source Framework for Modern Web Applications."
+description = "tdwebapi is an ambitious project to cater the needs of Developers and Organizations and helps reduce the development hours by over 200+ hours!"
+logo = "/images/logo.png"
+navBarLogo = "/images/logo.png"
+
+## Documentation
+# docsVersion = "1"
+
+# Search
+mainSections = ["blog", "dotnet-webapi-boilerplate","react-boilerplate"]
+
+## Open Graph
+images = ["tdwebapi.png"]
+ogLocale = "en_US"
+domainTLD = "doks.netlify.app"
+titleHome = "Doks Theme"
+
+
+## JSON-LD
+# schemaType = "Person"
+schemaType = "Organization"
+schemaName = "tdwebapi"
+schemaAuthor = "Polaris"
+schemaAuthorGitHub = "https://github.com/DarkangelKid"
+schemaLocale = "en-US"
+schemaLogo = "logo-tdwebapi.png"
+schemaLogoWidth = 512
+schemaLogoHeight = 512
+schemaImage = "tdwebapi.png"
+schemaImageWidth = 1280
+schemaImageHeight = 640
+schemaTwitter = "https://twitter.com/polaris"
+schemaLinkedIn = ""
+schemaGitHub = "https://github.com/DarkangelKid"
+schemaSection = "blog"
+
+## Sitelinks Search Box
+siteLinksSearchBox = false
+
+## Chrome Browser
+themeColor = "#fff"
+
+# Images
+quality = 100
+bgColor = "#fff"
+landscapePhotoWidths = [2000, 1000, 900, 800, 700, 600, 500,400]
+portraitPhotoWidths = [800, 700, 600, 500,100]
+lqipWidth = "20x"
+smallLimit = "30"
+
+# Footer
+footer = "Developed & Maintained by <a href=\"https://github.com/DarkangelKid/\">Polaris</a>"
+
+# Feed
+copyRight = "Copyright (c) 2022-2023 TanDanJSC"
+
+# Alert
+alert = true
+alertDismissable = false
+alertText = "TD.WebApi.V7 Released 🚀😁 <a target=\"_blank\" class=\"alert-link\" href=\"https://tandan.com.vn/\">Click here to get started! 😎☕</a>"
+
+# Edit Page
+repoHost = "GitHub"
+docsRepo = "https://github.com/DarkangelKid/docs"
+docsRepoBranch = "master"
+editPage = true
+lastMod = true
+
+[options]
+  lazySizes = true
+  clipBoard = true
+  instantPage = true
+  flexSearch = true
+  darkMode = true
+  bootStrapJs = true
+  breadCrumb = true
+  highLight = true
+  kaTex = false
+  multilingualMode = false
+  docsVersioning = false
+  fullWidth = true
+
+[menu]
+  [menu.section]
+    auto = false
+    collapsibleSidebar = false
