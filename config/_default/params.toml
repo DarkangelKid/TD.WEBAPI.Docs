@@ -5,8 +5,8 @@ title = "tdwebapi"
 titleSeparator = "-"
 titleAddition = "Open-Source Framework for Modern Web Applications."
 description = "tdwebapi is an ambitious project to cater the needs of Developers and Organizations and helps reduce the development hours by over 200+ hours!"
-logo = "/images/logo.png"
-navBarLogo = "/images/logo.png"
+logo = "/TD.WEBAPI.Docs/images/logo.png"
+navBarLogo = "/TD.WEBAPI.Docs/images/logo.png"
 
 ## Documentation
 # docsVersion = "1"
